@@ -1,4 +1,4 @@
-# 📊 Motorola Sales Dashboard (Power BI)
+# 📊 From Data to Insights: Motorola Sales Dashboard
 
 ## 📌 Overview
 This project is an interactive Sales Dashboard built using Power BI to analyze and visualize company sales performance across different regions, products, and time periods.
