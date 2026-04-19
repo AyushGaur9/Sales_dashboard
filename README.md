@@ -32,4 +32,5 @@ To design a dynamic and user-friendly dashboard for decision-making.
 
 ## 📷 Dashboard Preview
 [View Image](https://github.com/AyushGaur9/Sales_dashboard/blob/main/Company%20Sales.png)
+
 [View Video](https://github.com/AyushGaur9/Sales_dashboard/blob/main/Dashboard%20preview.mp4)
