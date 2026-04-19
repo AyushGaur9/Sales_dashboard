@@ -1,7 +1,8 @@
 # 📊 Motorola Sales Dashboard (Power BI)
 
 ## 📌 Overview
-This project is an interactive Sales Dashboard developed in Power BI...
+This project is an interactive Sales Dashboard built using Power BI to analyze and visualize company sales performance across different regions, products, and time periods.
+The project was originally based on a guided build, but I customized and enhanced the dashboard design and functionality, especially in how the visuals and interactions are structured.
 
 ## 🚀 Features
 - Fully interactive dashboard with filters and slicers  
@@ -31,3 +32,4 @@ To design a dynamic and user-friendly dashboard for decision-making.
 
 ## 📷 Dashboard Preview
 [View Image](https://github.com/AyushGaur9/Sales_dashboard/blob/main/Company%20Sales.png)
+[View Video](https://github.com/AyushGaur9/Sales_dashboard/blob/main/Dashboard%20preview.mp4)
